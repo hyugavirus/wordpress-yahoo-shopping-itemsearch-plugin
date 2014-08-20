@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Y!ショッピング商品検索
-Plugin URI: http://mar11th.com/
+Plugin URI: https://github.com/hyugavirus/wordpress-yahoo-shopping-itemsearch-plugin
 Description: Yahooショッピングの商品検索APIを利用して、キーワード検索を行います
 Author: hyugavirus
 Version: 0.1
